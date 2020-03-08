@@ -9,9 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "md",
+    "markdown",
     "previewer",
-    "react"
+    "react",
+    ".md"
   ],
   "author": "Omar Ibrahim",
   "license": "ISC",
