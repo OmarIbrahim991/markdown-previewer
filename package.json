@@ -1,4 +1,5 @@
 {
+  "homepage": "https://omaribrahim991.github.io/markdown-previewer/",
   "name": "markdown-previewer",
   "version": "1.0.0",
   "description": "App that parses .md files and preview them",
